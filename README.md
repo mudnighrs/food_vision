@@ -1,4 +1,4 @@
-# food_vision
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/26456339-f46d-4f79-a00b-8a2a5a14afa4" /># food_vision
 
 # 🍕 Food Vision - Image Classification using EfficientNetB2
 DEPLOYED AT :- [https://huggingface.co/spaces/Lakshaya13/foodvision]
@@ -37,8 +37,4 @@ We use the [Food-101 dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/
 - matplotlib
 - numpy
 
-### Installation
 
-```bash
-pip install torch torchvision torchaudio
-pip install tqdm matplotlib numpy torchinfo
