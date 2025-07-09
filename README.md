@@ -1,7 +1,7 @@
 
 # 🍕 Food Vision - Image Classification using EfficientNetB2
 ## Preview
-![App Screenshot](Pasted Graphic.png)  <!-- replace with your actual file name -->
+![App Screenshot](demo.jpg)  <!-- replace with your actual file name -->
 DEPLOYED AT :- [https://huggingface.co/spaces/Lakshaya13/foodvision]
 This project focuses on classifying food images using transfer learning with **EfficientNetB2** and the **Food-101** dataset. It leverages PyTorch and torchvision to train a deep learning model for multi-class image classification.
 
